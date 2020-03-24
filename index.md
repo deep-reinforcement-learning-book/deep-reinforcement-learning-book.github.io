@@ -17,8 +17,7 @@ A Springer Nature Book
 
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
-
+[Amazon](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [Springer](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [JD](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
 ---
 
 ## About the book
@@ -29,9 +28,36 @@ Divided into three main parts, this book provides a comprehensive and self-conta
 
 The book is intended for computer science students, both undergraduate and postgraduate, who would like to learn DRL from scratch, practice its implementation, and explore the research topics. This book also appeals to engineers and practitioners who do not have strong machine learning background, but want to quickly understand how DRL works and use the techniques in their applications.
 
+## Resources
 
-### Code of Conduct
+* [Code for Fundamental Chapters](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning)
+* [Code for Application Chapters](https://github.com/deep-reinforcement-learning-book)
+* [RL Zoo for Industry](https://github.com/tensorlayer/RLzoo)
 
-Just the Docs is committed to fostering a welcoming community.
+## FQA
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+### Can I get a PDF of the book?
+If your institute bought Springer xxx, you are free to download the whole PDF from Springer Website under the WIFI of your institute
+Alternatively, you can purchase the e-book at Springer Website
+
+### How to contribute?
+To be filled.
+
+If you find any typos or have suggestions for improving the book, do not hestitate to contact us by email at: hao.dong[at].pku.edu.cn
+
+## Citing the book
+
+To cite this book, please use this bibtex entry:
+```
+@book{deepRL-2020,
+ title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
+ author={xxx},
+ publisher={Springer Nature},
+ note={\url{http://www.deepreinforcementlearningbook.org}},
+ year={2020}
+}
+```
+
+Alternatively, use this formatted citation:
+
+`XXXX. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`

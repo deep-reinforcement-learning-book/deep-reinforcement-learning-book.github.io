@@ -200,8 +200,8 @@ To add a auxiliary navigation item to your site (in the upper right on all pages
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Deep Reinforcement Learning Book on GitHub":
+    - "//github.com/deep-reinforcement-learning-book"
 ```
 
 ---

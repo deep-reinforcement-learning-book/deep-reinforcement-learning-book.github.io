@@ -46,8 +46,8 @@ search_tokenizer_separator: /[\s/]+/
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Deep Reinforcement Learning Book on GitHub":
+    - "//github.com/deep-reinforcement-learning-book"
 ```
 
 ## Heading anchor links
@@ -64,7 +64,7 @@ heading_anchors: true
 
 ```yaml
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2020. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 ```
 
 ## Color scheme
