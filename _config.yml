@@ -16,7 +16,7 @@
 title: Deep Reinforcement Learning Book
 description: A site of resources dedicated to the book
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://deepreinforcementlearningbook.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hangyuan.xyz" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -35,7 +35,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Deep Reinforcement Learning Book on Github":
+  "Deep Reinforcement Learning Book on GitHub":
     - "//github.com/deep-reinforcement-learning-book"
 
 # Footer content appears at the bottom of every page's main content
