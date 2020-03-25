@@ -18,6 +18,8 @@ A Springer Nature Book
 {: .fs-6 .fw-300 }
 
 [Amazon](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [Springer](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [JD](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
+
+
 ---
 
 ## About the book
@@ -27,6 +29,46 @@ Deep reinforcement learning (DRL) relies on the intersection of reinforcement le
 Divided into three main parts, this book provides a comprehensive and self-contained introduction to DRL. The first part introduces the foundations of DL, RL and widely used DRL methods and discusses their implementation. The second part covers selected DRL research topics, which are useful for those wanting to specialize in DRL research. To help readers gain a deep understanding of DRL and quickly apply the techniques in practice, the third part presents mass applications, such as the intelligent transportation system and learning to run, with detailed explanations. 
 
 The book is intended for computer science students, both undergraduate and postgraduate, who would like to learn DRL from scratch, practice its implementation, and explore the research topics. This book also appeals to engineers and practitioners who do not have strong machine learning background, but want to quickly understand how DRL works and use the techniques in their applications.
+
+### Editors 
+
+* Don Hao - Peking University 
+* Zihan Ding - Precenton 
+* Shanghang Zhang - UC Berkeley 
+
+### Authors 
+
+* Don Hao - Peking University 
+* Zihan Ding - Precenton 
+* Shanghang Zhang - UC Berkeley 
+* Hang Yuan - Oxford University
+* Hongming Zhang - Peking University
+* Jingqiang Zhang - Imperial College London
+* Yanhua Huang - Xiaohongshu technology Co.
+* Tianyang Yu - Nanchang University
+* Huaqiang Zhang - Google 
+* Ruiong Huang - Berealis AI
+
+## News
+
+* 03-25-2020: The book is set to publish in July, 2020. Stay tuned!
+
+
+## Community 
+[![alt slack][slack_logo]{: height="36px" width="36px" }](https://google.com)
+Join Us on Slack for open discussions
+
+[![alt slack][github_logo]{: height="36px" width="36px" }](https://google.com)
+Create a Github issue for a technial query 
+
+[![alt slack][slack_logo]{: height="36px" width="36px" }](https://google.com)
+Alternatively Come to AI Open Forum here.
+
+[slack_logo]: /assets/images/slack.png "Logo Title Text 2"
+[github_logo]: /assets/images/github.png "Logo Title Text 2"
+
+### Mailing list 
+If you want to get informed about any updates, please subscribe to our mailing [here](google.com).
 
 ## Resources
 
@@ -61,3 +103,5 @@ To cite this book, please use this bibtex entry:
 Alternatively, use this formatted citation:
 
 `XXXX. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
+
+### Social media
