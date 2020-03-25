@@ -44,7 +44,7 @@ The book is intended for computer science students, both undergraduate and postg
 * Hang Yuan - Oxford University
 * Hongming Zhang - Peking University
 * Jingqiang Zhang - Imperial College London
-* Yanhua Huang - Xiaohongshu technology Co.
+* Yanhua Huang - Xiaohongshu Technology Co.
 * Tianyang Yu - Nanchang University
 * Huaqiang Zhang - Google 
 * Ruiong Huang - Berealis AI
@@ -55,17 +55,10 @@ The book is intended for computer science students, both undergraduate and postg
 
 
 ## Community 
-[![alt slack][slack_logo]{: height="36px" width="36px" }](https://google.com)
-Join Us on Slack for open discussions
 
-[![alt slack][github_logo]{: height="36px" width="36px" }](https://google.com)
-Create a Github issue for a technial query 
-
-[![alt slack][slack_logo]{: height="36px" width="36px" }](https://google.com)
-Alternatively Come to AI Open Forum here.
-
-[slack_logo]: /assets/images/slack.png "Logo Title Text 2"
-[github_logo]: /assets/images/github.png "Logo Title Text 2"
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Alternatively Come to AI Open Forum here. </a></li>
 
 ### Mailing list 
 If you want to get informed about any updates, please subscribe to our mailing [here](google.com).
