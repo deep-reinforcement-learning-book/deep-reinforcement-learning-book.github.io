@@ -49,7 +49,8 @@ color_scheme: nil
 ga_tracking: UA-2709176-10
 
 plugins:
-  - jekyll-seo-tag
+#  Uncomment for the favicon icon
+#  - jekyll-seo-tag
 
 compress_html:
   clippings: all
