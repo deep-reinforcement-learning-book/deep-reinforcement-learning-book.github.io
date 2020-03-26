@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 18. Tricks of Implementation
 nav_order: 99
 ---
 

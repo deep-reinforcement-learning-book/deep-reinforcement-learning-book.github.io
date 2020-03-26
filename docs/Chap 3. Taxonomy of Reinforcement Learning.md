@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 3
+title: Chap 3. Taxonomy of Reinforcement Learning
 nav_order: 99
 ---
 

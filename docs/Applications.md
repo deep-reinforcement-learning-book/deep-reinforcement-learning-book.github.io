@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Applications
 nav_order: 99
 ---
 

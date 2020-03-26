@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 8. Imitation Learning
 nav_order: 99
 ---
 

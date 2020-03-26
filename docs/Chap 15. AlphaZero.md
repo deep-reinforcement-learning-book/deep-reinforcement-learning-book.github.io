@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 15. AlphaZero
 nav_order: 99
 ---
 

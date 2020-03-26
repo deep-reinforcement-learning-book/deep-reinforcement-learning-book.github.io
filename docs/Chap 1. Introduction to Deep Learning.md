@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 1
+title: Chap 1. Introduction to Deep Learning
 nav_order: 99
 ---
 

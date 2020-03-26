@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 1
+title: Foundamentals
 nav_order: 99
 ---
 

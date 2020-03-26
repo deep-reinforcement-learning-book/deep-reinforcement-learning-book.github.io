@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 9. Integrating Learning and Planning
 nav_order: 99
 ---
 

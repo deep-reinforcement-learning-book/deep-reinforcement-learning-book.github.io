@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 4. Deep Q-Networks
 nav_order: 99
 ---
 

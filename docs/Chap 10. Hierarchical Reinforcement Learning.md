@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 10. Hierarchical Reinforcement Learning
 nav_order: 99
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 14. Robust Image Enhancement
 nav_order: 99
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 2
+title: Chap 2. Introduction to Reinforcement Learning
 nav_order: 99
 ---
 

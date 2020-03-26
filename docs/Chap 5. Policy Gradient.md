@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 5. Policy Gradient
 nav_order: 99
 ---
 

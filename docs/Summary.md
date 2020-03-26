@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Summary
 nav_order: 99
 ---
 

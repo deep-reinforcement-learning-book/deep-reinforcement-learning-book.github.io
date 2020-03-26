@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 16. Robot Learning in Simulation
 nav_order: 99
 ---
 

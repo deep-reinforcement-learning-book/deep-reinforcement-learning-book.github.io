@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 19. Algorithm Table
 nav_order: 99
 ---
 

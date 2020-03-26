@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Chap 4
+title: Chap 6. Combine Deep Q-Networks with Actor-Critic
 nav_order: 99
 ---
 
