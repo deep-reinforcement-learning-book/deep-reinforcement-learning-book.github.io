@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 19. Algorithm Table
-nav_order: 99
+nav_order: 19
 ---
 
 ## Authors

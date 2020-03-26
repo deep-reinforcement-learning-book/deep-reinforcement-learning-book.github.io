@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 12. Parallel Computing
-nav_order: 99
+nav_order: 12
 ---
 
 ## Authors

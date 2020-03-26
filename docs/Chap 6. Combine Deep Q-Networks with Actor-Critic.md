@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 6. Combine Deep Q-Networks with Actor-Critic
-nav_order: 99
+nav_order: 6
 ---
 
 ## Authors

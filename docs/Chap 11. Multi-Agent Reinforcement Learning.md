@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 11. Multi-Agent Reinforcement Learning
-nav_order: 99
+nav_order: 11
 ---
 
 ## Authors

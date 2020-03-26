@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 4. Deep Q-Networks
-nav_order: 99
+nav_order: 5
 ---
 
 ## Authors

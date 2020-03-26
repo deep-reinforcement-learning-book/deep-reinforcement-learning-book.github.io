@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 7. Challenges of Reinforcement Learning
-nav_order: 99
+nav_order: 7
 ---
 
 ## Authors

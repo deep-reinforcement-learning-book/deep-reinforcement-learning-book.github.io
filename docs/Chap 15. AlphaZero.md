@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 15. AlphaZero
-nav_order: 99
+nav_order: 15
 ---
 
 ## Authors

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 9. Integrating Learning and Planning
-nav_order: 99
+nav_order: 9
 ---
 
 ## Authors

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 18. Tricks of Implementation
-nav_order: 99
+nav_order: 18
 ---
 
 ## Authors

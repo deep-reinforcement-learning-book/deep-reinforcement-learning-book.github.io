@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 3. Taxonomy of Reinforcement Learning
-nav_order: 99
+nav_order: 4
 ---
 
 ## Authors

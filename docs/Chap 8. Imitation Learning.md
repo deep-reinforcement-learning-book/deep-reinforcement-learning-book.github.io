@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 8. Imitation Learning
-nav_order: 99
+nav_order: 8
 ---
 
 ## Authors

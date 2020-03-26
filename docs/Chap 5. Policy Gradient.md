@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 5. Policy Gradient
-nav_order: 99
+nav_order: 5
 ---
 
 ## Authors

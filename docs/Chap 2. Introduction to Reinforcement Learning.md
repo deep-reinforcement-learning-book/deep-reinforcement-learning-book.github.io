@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 2. Introduction to Reinforcement Learning
-nav_order: 99
+nav_order: 3
 ---
 
 ## Authors

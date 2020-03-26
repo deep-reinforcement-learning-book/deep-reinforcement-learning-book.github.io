@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 13. Learning to Run
-nav_order: 99
+nav_order: 13
 ---
 
 ## Authors

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 10. Hierarchical Reinforcement Learning
-nav_order: 99
+nav_order: 10
 ---
 
 ## Authors

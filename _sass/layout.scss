@@ -147,8 +147,9 @@
 
   @include mq(md) {
     margin-top: $sp-10;
-    padding-top: $sp-2;
-    padding-bottom: $sp-2;
+    padding-top: $sp-10;
+    margin-bottom: $sp-4;
+    padding-bottom: $sp-10;
   }
 }
 
