@@ -4,7 +4,39 @@ title: Chap 5. Policy Gradient
 nav_order: 99
 ---
 
-If you find any typos or have suggestions for improving the book, do not hestitate to contact us via email at: hao.dong[at].pku.edu.cn
+## Authors
 
-## List of changes made
+- Ruitong Huang - Borealis AI
+- Tianyang Yu - Nanchang University
+- Zihan Ding - Princeton University
+- Shanghang Zhang* - University of California, Berkeley (shzhang.pku[at]gmail.com)
 
+## Abstract
+
+This chapter aims to introduce one of the most important deep reinforcement learning algorithms, called deep Q-networks. We will start with the Q-learning algorithm via temporal difference learning, and introduce the deep Q-networks algorithm and its variants. We will end this chapter with code examples and experimental comparison of deep Q-networks and its variants in practice.
+
+**Keywords**: temporal difference learning, DQN, double DQN, dueling DQN, prioritized experience replay, distributional reinforcement learning
+
+## Code 
+
+Codes for contents in this chapter are available [**here**](https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement\_learning).
+
+## Citation
+
+To cite this book, please use this bibtex entry:
+
+```
+@book{deepRL-2020,
+ title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
+ author={xxx},
+ publisher={Springer Nature},
+ note={\url{http://www.deepreinforcementlearningbook.org}},
+ year={2020}
+}
+```
+
+
+
+
+
+If you find any typos or have suggestions for improving the book, do not hesitate to contact with the corresponding author (name with *).

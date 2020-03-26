@@ -4,7 +4,30 @@ title: Chap 10. Hierarchical Reinforcement Learning
 nav_order: 99
 ---
 
-If you find any typos or have suggestions for improving the book, do not hestitate to contact us via email at: hao.dong[at].pku.edu.cn
+## Authors
 
-## List of changes made
+- Yanhua Huang* - Xiaohongshu Technology Co. (iofficium[at]gmail.com)
 
+## Abstract
+
+In this chapter, we introduce hierarchical reinforcement learning, which is a type of methods to improve the learning performance by constructing and leveraging the underlying structures of cognition and decision making process. Specifically, we first introduce the backgrounds and two primary categories of hierarchical reinforcement learning: options framework and feudal reinforcement learning. Then we have a detailed introduction of some typical algorithms in these categories, including strategic attentive writer, option-critic and feudal networks, etc. Finally, we provide a summary of recent works on hierarchical reinforcement learning at the end of this chapter.
+
+**Keywords**: hierarchical reinforcement learning, options framework, option-critic, feudal reinforcement learning, feudal networks
+
+## Citation
+
+To cite this book, please use this bibtex entry:
+
+```
+@book{deepRL-2020,
+ title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
+ author={xxx},
+ publisher={Springer Nature},
+ note={\url{http://www.deepreinforcementlearningbook.org}},
+ year={2020}
+}
+```
+
+
+
+If you find any typos or have suggestions for improving the book, do not hesitate to contact with the corresponding author (name with *).

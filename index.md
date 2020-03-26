@@ -33,22 +33,22 @@ The book is intended for computer science students, both undergraduate and postg
 
 ### Editors 
 
-* Don Hao - Peking University 
-* Zihan Ding - Princeton 
-* Shanghang Zhang - UC Berkeley 
+* Hao Dong - Peking University
+* Zihan Ding - Princeton University
+* Shanghang Zhang - University of California, Berkeley
 
 ### Authors 
 
-* Don Hao - Peking University 
-* Zihan Ding - Princeton 
-* Shanghang Zhang - UC Berkeley 
+* Hao Dong - Peking University 
+* Zihan Ding - Princeton University
+* Shanghang Zhang - University of California, Berkeley 
 * Hang Yuan - Oxford University
 * Hongming Zhang - Peking University
-* Jingqiang Zhang - Imperial College London
+* Jingqing Zhang - Imperial College London
 * Yanhua Huang - Xiaohongshu Technology Co.
 * Tianyang Yu - Nanchang University
-* Huaqiang Zhang - Google 
-* Ruiong Huang - Berealis AI
+* Huaqing Zhang - Google 
+* Ruitong Huang - Borealis AI
 
 ## News
 
@@ -79,7 +79,7 @@ Alternatively, you can purchase the e-book at Springer Website
 ### How to contribute?
 To be filled.
 
-If you find any typos or have suggestions for improving the book, do not hestitate to contact us by email at: hao.dong[at].pku.edu.cn
+If you find any typos or have suggestions for improving the book, do not hesitate to contact us by email at: hao.dong[at]pku.edu.cn
 
 ## Citing the book
 

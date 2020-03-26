@@ -4,7 +4,31 @@ title: Chap 8. Imitation Learning
 nav_order: 99
 ---
 
-If you find any typos or have suggestions for improving the book, do not hestitate to contact us via email at: hao.dong[at].pku.edu.cn
+## Authors
 
-## List of changes made
+- Zihan Ding* - Princeton University (zhding[at]mail.ustc.edu.cn)
 
+## Abstract
+
+To alleviate the low sample efficiency problem in deep reinforcement learning, imitation learning, or called apprenticeship learning, is one of the potential approaches, which leverages the expert demonstrations in sequential decision making process. 
+In order to provide the readers a comprehensive understanding about how to effectively extract information from the demonstration data, we introduce the most important categories in imitation learning, including behavioral cloning, inverse reinforcement learning, imitation learning from observations, probabilistic methods and other methods. Imitation learning can either be regarded as an initialization or a guidance for training the agent in the scope of reinforcement learning. Combination of imitation learning and reinforcement learning is a promising direction for efficient learning and faster policy optimization in practice. 
+
+**Keywords**: imitation learning, apprenticeship learning, demonstration, reinforcement learning, behavioral cloning, inverse reinforcement learning, generative adversarial networks, sample efficiency
+
+## Citation
+
+To cite this book, please use this bibtex entry:
+
+```
+@book{deepRL-2020,
+ title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
+ author={xxx},
+ publisher={Springer Nature},
+ note={\url{http://www.deepreinforcementlearningbook.org}},
+ year={2020}
+}
+```
+
+
+
+If you find any typos or have suggestions for improving the book, do not hesitate to contact with the corresponding author (name with *).
