@@ -50,7 +50,7 @@ ga_tracking: UA-2709176-10
 
 plugins:
 #  Uncomment for the favicon icon
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
 
 compress_html:
   clippings: all

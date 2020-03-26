@@ -19,6 +19,8 @@ A Springer Nature Book
 
 [Amazon](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [Springer](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [JD](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
 
+[Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](#mailing-list){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
+
 
 ---
 
@@ -58,7 +60,7 @@ The book is intended for computer science students, both undergraduate and postg
 
 <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
 <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Alternatively Come to AI Open Forum here. </a></li>
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Or come to AI Open Forum here. </a></li>
 
 ### Mailing list 
 If you want to get informed about any updates, please subscribe to our mailing [here](google.com).
