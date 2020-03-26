@@ -21,7 +21,6 @@ A Springer Nature Book
 
 [Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](#mailing-list){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
 
-
 ---
 
 ## About the book
@@ -35,13 +34,13 @@ The book is intended for computer science students, both undergraduate and postg
 ### Editors 
 
 * Don Hao - Peking University 
-* Zihan Ding - Precenton 
+* Zihan Ding - Princeton 
 * Shanghang Zhang - UC Berkeley 
 
 ### Authors 
 
 * Don Hao - Peking University 
-* Zihan Ding - Precenton 
+* Zihan Ding - Princeton 
 * Shanghang Zhang - UC Berkeley 
 * Hang Yuan - Oxford University
 * Hongming Zhang - Peking University
