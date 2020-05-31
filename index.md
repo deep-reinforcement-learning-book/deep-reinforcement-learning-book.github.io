@@ -18,7 +18,8 @@ A Springer Nature Book
 
 {: .fs-6 .fw-300 }
 
-[Amazon](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [Springer](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } [JD](#getting-started){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
+[Amazon](https://www.amazon.com/Deep-Reinforcement-Learning-Fundamentals-Applications/dp/9811540942){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
+[Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 [Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](#mailing-list){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
 
