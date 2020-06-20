@@ -22,10 +22,14 @@ In this chapter, we introduce the fundamentals of classical reinforcement learni
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter2-2020,
+ title={Introduction to Reinforcement Learning},
+ chapter={2},
+ author={Zihan Ding, Yanhua Huang, Hang Yuan, Hao Dong},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={47-124},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

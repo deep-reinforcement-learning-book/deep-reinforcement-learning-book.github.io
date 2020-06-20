@@ -20,10 +20,14 @@ In this chapter, we introduce and summarize the taxonomy and categories for rein
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter3-2020,
+ title={Taxonomy of Reinforcement Learning},
+ chapter={3},
+ author={Hongming Zhang, Tianyang Yu},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={125-134},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }
