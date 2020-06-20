@@ -19,10 +19,14 @@ In this chapter, we introduce hierarchical reinforcement learning, which is a ty
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter10-2020,
+ title={Hierarchical Reinforcement Learning},
+ chapter={10},
+ author={Yanhua Huang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={317-334},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

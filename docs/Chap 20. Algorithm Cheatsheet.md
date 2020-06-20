@@ -17,10 +17,14 @@ This chapter provides a summary of algorithms and key concepts in (deep) reinfor
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter20-2020,
+ title={Algorithm Cheatsheet},
+ chapter={20},
+ author={Zihan Ding},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={489-514},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

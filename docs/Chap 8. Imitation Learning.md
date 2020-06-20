@@ -20,10 +20,14 @@ In order to provide the readers a comprehensive understanding about how to effec
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter8-2020,
+ title={Imitation Learning},
+ chapter={8},
+ author={Zihan Ding},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={273-306},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

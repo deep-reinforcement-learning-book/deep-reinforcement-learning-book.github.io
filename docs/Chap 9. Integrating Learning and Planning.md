@@ -21,10 +21,14 @@ In this chapter, reinforcement learning is analyzed from the perspective of lear
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter9-2020,
+ title={Integrating Learning and Planning},
+ chapter={9},
+ author={Huaqing Zhang, Ruitong Huang, Shanghang Zhang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={307-316},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

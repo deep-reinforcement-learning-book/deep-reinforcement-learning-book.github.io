@@ -25,10 +25,14 @@ Codes for contents in this chapter are available [**here**](https://github.com/t
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter6-2020,
+ title={Combine Deep Q-Networks with Actor-Critic},
+ chapter={6},
+ author={Hongming Zhang, Tianyang Yu, Ruitong Huang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={213-248},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }
