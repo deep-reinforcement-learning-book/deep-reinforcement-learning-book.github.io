@@ -78,9 +78,9 @@ If your institute bought Springer subscriptions, you are free to download the wh
 Alternatively, you can purchase the e-book at Springer Website or other book dealers.
 
 ### How to contribute?
-To be filled.
-
 If you find any typos or have suggestions for improving the book, do not hesitate to contact us by email at: hao.dong[at]pku.edu.cn
+
+If you find any bug or error in the code released together with the book, please report them through creating an issue in the corresponding repository.
 
 ## Citing the book
 
