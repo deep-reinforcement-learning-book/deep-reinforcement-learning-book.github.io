@@ -89,7 +89,8 @@ To cite this book, please use this bibtex entry:
 ```
 @book{deepRL-2020,
  title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ author={Hao Dong, Zihan Ding, Shanghang Zhang, Hang Yuan, Hongming Zhang, Jingqing Zhang, Yanhua Huang, Tianyang Yu, Huaqing Zhang, Ruitong Huang},
  publisher={Springer Nature},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
