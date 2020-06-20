@@ -21,7 +21,7 @@ A Springer Nature Book
 [Amazon](https://www.amazon.com/Deep-Reinforcement-Learning-Fundamentals-Applications/dp/9811540942){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
 [Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
-[Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](#post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
+[Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
 
 ---
 
@@ -64,7 +64,7 @@ The book is intended for computer science students, both undergraduate and postg
 <li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Or come to AI Open Forum here. </a></li>
 
 ### Mailing list 
-If you want to get informed about any updates, please subscribe to our mailing [here](#post.html).
+If you want to get informed about any updates, please subscribe to our mailing [here](post.html).
 
 ## Resources
 
