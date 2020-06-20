@@ -21,7 +21,7 @@ A Springer Nature Book
 [Amazon](https://www.amazon.com/Deep-Reinforcement-Learning-Fundamentals-Applications/dp/9811540942){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
 [Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
-[Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](#mailing-list){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
+[Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
 
 ---
 
@@ -59,12 +59,11 @@ The book is intended for computer science students, both undergraduate and postg
 
 ## Community 
 
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Or come to AI Open Forum here. </a></li>
+<li><a href="https://tensorlayer.slack.com/archives/CKGFRK5U4"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
+<li><a href="https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
 
 ### Mailing list 
-If you want to get informed about any updates, please subscribe to our mailing [here](google.com).
+If you want to get informed about any updates, please subscribe to our mailing [here](post.html).
 
 ## Resources
 
@@ -100,5 +99,3 @@ To cite this book, please use this bibtex entry:
 Alternatively, use this formatted citation:
 
 `XXXX. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
-
-### Social media
