@@ -59,9 +59,8 @@ The book is intended for computer science students, both undergraduate and postg
 
 ## Community 
 
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
-<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-list'></i> Or come to AI Open Forum here. </a></li>
+<li><a href="https://tensorlayer.slack.com/archives/CKGFRK5U4"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
+<li><a href="https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
 
 ### Mailing list 
 If you want to get informed about any updates, please subscribe to our mailing [here](post.html).
@@ -100,5 +99,3 @@ To cite this book, please use this bibtex entry:
 Alternatively, use this formatted citation:
 
 `XXXX. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
-
-### Social media
