@@ -26,10 +26,14 @@ Codes for contents in this chapter are available [**here**](https://github.com/t
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter5-2020,
+ title={Policy Gradient},
+ chapter={5},
+ author={Ruitong Huang, Tianyang Yu, Zihan Ding, Shanghang Zhang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={161-212},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

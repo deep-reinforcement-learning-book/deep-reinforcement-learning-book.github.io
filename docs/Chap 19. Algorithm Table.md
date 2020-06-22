@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 19. Algorithm Table
-nav_order: 19
+nav_order: 21
 ---
 
 ## Authors
@@ -17,10 +17,14 @@ In this chapter, a table containing the most popular reinforcement learning algo
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter19-2020,
+ title={Algorithm Table},
+ chapter={19},
+ author={Zihan Ding},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={485-488},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 13. Learning to Run
-nav_order: 13
+nav_order: 14
 ---
 
 ## Authors
@@ -24,10 +24,14 @@ Codes for contents in this chapter are available [**here**](https://github.com/d
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter13-2020,
+ title={Learning to Run},
+ chapter={13},
+ author={Zihan Ding, Hao Dong},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={367-378},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

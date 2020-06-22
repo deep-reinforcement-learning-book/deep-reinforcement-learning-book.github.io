@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 18. Tricks of Implementation
-nav_order: 18
+nav_order: 19
 ---
 
 ## Authors
@@ -21,10 +21,14 @@ So in this chapter, we summarize some common tricks and methods in detail, eithe
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter18-2020,
+ title={Tricks of Implementation},
+ chapter={18},
+ author={Zihan Ding, Hao Dong},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={467-484},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

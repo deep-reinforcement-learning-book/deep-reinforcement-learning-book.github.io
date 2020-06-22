@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 14. Robust Image Enhancement
-nav_order: 14
+nav_order: 15
 ---
 
 ## Authors
@@ -23,10 +23,14 @@ Codes for contents in this chapter are available [**here**](https://github.com/d
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter14-2020,
+ title={Robust Image Enhancement},
+ chapter={14},
+ author={Yanhua Huang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={379-390},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

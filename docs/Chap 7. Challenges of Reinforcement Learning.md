@@ -20,10 +20,14 @@ This chapter introduces the existing challenges in deep reinforcement learning r
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter7-2020,
+ title={Challenges of Reinforcement Learning},
+ chapter={7},
+ author={Zihan Ding, Hao Dong},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={249-272},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

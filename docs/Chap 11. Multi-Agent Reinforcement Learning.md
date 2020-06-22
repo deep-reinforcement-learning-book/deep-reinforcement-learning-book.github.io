@@ -20,10 +20,14 @@ In reinforcement learning, complicated applications require involving multiple a
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter11-2020,
+ title={Multi-Agent Reinforcement Learning},
+ chapter={11},
+ author={Huaqing Zhang, Shanghang Zhang},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={335-346},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

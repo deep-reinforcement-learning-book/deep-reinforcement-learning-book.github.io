@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 15. AlphaZero
-nav_order: 15
+nav_order: 16
 ---
 
 ## Authors
@@ -24,10 +24,14 @@ Codes for contents in this chapter are available [**here**](https://github.com/d
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter15-2020,
+ title={AlphaZero},
+ chapter={15},
+ author={Hongming Zhang, Tianyang Yu},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={391-416},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

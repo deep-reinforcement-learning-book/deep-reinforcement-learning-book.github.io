@@ -20,10 +20,14 @@ Due to the low sample efficiency of reinforcement learning, parallel computing i
 To cite this book, please use this bibtex entry:
 
 ```
-@book{deepRL-2020,
- title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
- author={xxx},
+@incollection{deepRL-chapter12-2020,
+ title={Parallel Computing},
+ chapter={12},
+ author={Huaqing Zhang, Tianyang Yu},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ booktitle={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  publisher={Springer Nature},
+ pages={347-366},
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }

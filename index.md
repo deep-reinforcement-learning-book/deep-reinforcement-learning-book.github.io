@@ -74,13 +74,13 @@ If you want to get informed about any updates, please subscribe to our mailing [
 ## FQA
 
 ### Can I get a PDF of the book?
-If your institute bought Springer xxx, you are free to download the whole PDF from Springer Website under the WIFI of your institute
-Alternatively, you can purchase the e-book at Springer Website
+If your institute bought Springer subscriptions, you are free to download the whole PDF from Springer Website under the WIFI of your institute
+Alternatively, you can purchase the e-book at Springer Website or other book dealers.
 
 ### How to contribute?
-To be filled.
-
 If you find any typos or have suggestions for improving the book, do not hesitate to contact us by email at: hao.dong[at]pku.edu.cn
+
+If you find any bug or error in the code released together with the book, please report them through creating an issue in the corresponding repository.
 
 ## Citing the book
 
@@ -98,4 +98,4 @@ To cite this book, please use this bibtex entry:
 
 Alternatively, use this formatted citation:
 
-`XXXX. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
+`Hao Dong, Zihan Ding, Shanghang Zhang, Hang Yuan, Hongming Zhang, Jingqing Zhang, Yanhua Huang, Tianyang Yu, Huaqing Zhang, Ruitong Huang. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
