@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 17. Arena Platform for Multi-Agent Reinforcement Learning
-nav_order: 17
+nav_order: 18
 ---
 
 ## Authors

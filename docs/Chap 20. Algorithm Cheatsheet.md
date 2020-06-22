@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 20. Algorithm Cheatsheet
-nav_order: 20
+nav_order: 22
 ---
 
 ## Authors

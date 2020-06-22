@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 16. Robot Learning in Simulation
-nav_order: 16
+nav_order: 17
 ---
 
 ## Authors

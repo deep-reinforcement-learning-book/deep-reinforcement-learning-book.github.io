@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chap 14. Robust Image Enhancement
-nav_order: 14
+nav_order: 15
 ---
 
 ## Authors
