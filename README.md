@@ -46,6 +46,7 @@ The theme is available as open source under the terms of the [MIT License](http:
 
 ## Cite
 
+```
 @book{deepRL-2020,
  title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
  editor={Hao Dong, Zihan Ding, Shanghang Zhang},
@@ -54,3 +55,4 @@ The theme is available as open source under the terms of the [MIT License](http:
  note={\url{http://www.deepreinforcementlearningbook.org}},
  year={2020}
 }
+```
