@@ -42,3 +42,15 @@ Or install it yourself as:
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 # web
+
+
+## Cite
+
+@book{deepRL-2020,
+ title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
+ editor={Hao Dong, Zihan Ding, Shanghang Zhang},
+ author={Hao Dong, Zihan Ding, Shanghang Zhang, Hang Yuan, Hongming Zhang, Jingqing Zhang, Yanhua Huang, Tianyang Yu, Huaqing Zhang, Ruitong Huang},
+ publisher={Springer Nature},
+ note={\url{http://www.deepreinforcementlearningbook.org}},
+ year={2020}
+}
