@@ -22,7 +22,7 @@ A Springer Nature Book
 <!-- [Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } -->
 [Springer](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue)
 {: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
-[京东（中文版）](https://item.m.jd.com/product/12870299.html?utm_source=weixin&utm_medium=weixin&utm_campaign=t_1000072672_17053_001&utm_term=Wxfriends&ad_od=share&gx=RnE3lzQPPTeLzNRB98cuCszXhdJu&_fd=jdm&PTAG=17053.1.1)
+[Springer](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue)
 {: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 [Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
@@ -57,8 +57,8 @@ The book is intended for computer science students, both undergraduate and postg
 * Ruitong Huang - Borealis AI
 
 ## News
-* 06-18-2021: The book (Chinese version) is officially published!
-* 06-22-2020: The book (English version) is officially published via Springer Nature!
+* 06-18-2021: The book (Chinese version) is published!
+* 06-22-2020: The book (English version) is published via Springer Nature!
 * 03-25-2020: The book is set to publish in July, 2020. Stay tuned!
 
 
