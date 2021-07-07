@@ -20,8 +20,8 @@ A Springer Nature Book
 
 [Amazon](https://www.amazon.com/Deep-Reinforcement-Learning-Fundamentals-Applications/dp/9811540942){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
 <!-- [Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } -->
-[Springer](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue)
-{: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[Springer](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[Springer](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 [Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
 
