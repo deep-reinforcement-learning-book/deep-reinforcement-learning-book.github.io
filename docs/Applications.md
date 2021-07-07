@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Applications
+title: <strong>Applications</strong>
 nav_order: 13
 ---
 

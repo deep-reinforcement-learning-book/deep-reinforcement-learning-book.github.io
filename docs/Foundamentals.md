@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Foundamentals
+title: <strong>Foundamentals</strong>
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: <strong>Research</strong>
 nav_order: 6
 ---
 
