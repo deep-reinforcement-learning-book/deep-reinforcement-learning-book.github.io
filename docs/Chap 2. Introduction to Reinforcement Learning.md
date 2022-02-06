@@ -18,6 +18,8 @@ In this chapter, we introduce the fundamentals of classical reinforcement learni
 
 **Keywords**: reinforcement learning, multi-armed bandit, Markov process, Bellman equation, dynamic programming, Monte-Carlo method, temporal difference learning, value-based optimization, deterministic policy gradient, stochastic policy gradient
 
+[中文版pdf](/assets/pdfs/ch2.pdf)
+
 ## Citation
 
 To cite this book, please use this bibtex entry:

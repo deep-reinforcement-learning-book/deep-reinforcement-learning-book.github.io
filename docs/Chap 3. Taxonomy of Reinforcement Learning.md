@@ -14,6 +14,8 @@ lang: en
 
 In this chapter, we introduce and summarize the taxonomy and categories for reinforcement learning (RL) algorithms. We classify reinforcement learning algorithms from different perspectives, including model-based and model-free methods, value-based and policy-based methods (or combination of the two), Monte Carlo methods and temporal-difference methods, on-policy and off-policy methods. Most reinforcement learning algorithms can be classified under different categories according to the above criteria, hope this helps to provide the readers some overviews of the full picture before introducing the algorithms in detail in later chapters. 
 
+[中文版pdf](/assets/pdfs/ch3.pdf)
+
 **Keywords**: model-based, model-free, value-based, policy-based, Monte Carlo (MC) methods, temporal-difference (TD) methods, on-policy, off-policy
 
 ## Citation

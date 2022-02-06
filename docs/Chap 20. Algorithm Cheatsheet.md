@@ -12,6 +12,8 @@ nav_order: 22
 
 This chapter provides a summary of algorithms and key concepts in (deep) reinforcement learning here. We also try to keep the mathematical notations and terminology consistent with the rest of the book, which can be referred to the section of mathematical notation at the beginning of the book and Chapter 2.
 
+[中文版pdf](/assets/pdfs/appendixB.pdf)
+
 ## Citation
 
 To cite this book, please use this bibtex entry:

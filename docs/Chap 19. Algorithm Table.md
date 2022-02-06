@@ -12,6 +12,8 @@ nav_order: 21
 
 In this chapter, a table containing the most popular reinforcement learning algorithms is summarized, especially for those introduced in this book. We hope this will help the readers to refer to the original papers. 
 
+[中文版pdf](/assets/pdfs/appendixA.pdf)
+
 ## Citation
 
 To cite this book, please use this bibtex entry:

@@ -15,6 +15,8 @@ This chapter aims to introduce one of the most important deep reinforcement lear
 
 **Keywords**: temporal difference learning, DQN, double DQN, dueling DQN, prioritized experience replay, distributional reinforcement learning
 
+[中文版pdf](/assets/pdfs/ch4.pdf)
+
 ## Code 
 
 Codes for contents in this chapter are available [**here**](https://github.com/deep-reinforcement-learning-book/Chapter4-DQN).

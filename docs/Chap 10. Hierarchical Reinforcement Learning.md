@@ -12,6 +12,8 @@ nav_order: 10
 
 In this chapter, we introduce hierarchical reinforcement learning, which is a type of methods to improve the learning performance by constructing and leveraging the underlying structures of cognition and decision making process. Specifically, we first introduce the backgrounds and two primary categories of hierarchical reinforcement learning: options framework and feudal reinforcement learning. Then we have a detailed introduction of some typical algorithms in these categories, including strategic attentive writer, option-critic and feudal networks, etc. Finally, we provide a summary of recent works on hierarchical reinforcement learning at the end of this chapter.
 
+[中文版pdf](/assets/pdfs/ch10.pdf)
+
 **Keywords**: hierarchical reinforcement learning, options framework, option-critic, feudal reinforcement learning, feudal networks
 
 ## Citation

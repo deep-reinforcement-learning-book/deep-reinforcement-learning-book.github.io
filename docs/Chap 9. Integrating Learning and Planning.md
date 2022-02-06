@@ -14,6 +14,8 @@ nav_order: 9
 
 In this chapter, reinforcement learning is analyzed from the perspective of learning and planning. We initially introduce the concepts of model and model-based methods, with the highlight of advantages on model planning. In order to include the benefits of both model-based and model-free methods, we present the integration architecture combining learning and planning, with detailed illustration on Dyna-Q algorithm. Finally, for the integration of learning and planning, the simulation-based search applications are analyzed.
 
+[中文版pdf](/assets/pdfs/ch9.pdf)
+
 **Keywords**: model-based, model-free, Dyna, Monte-Carlo Tree Search, Temperal Difference (TD) search
 
 ## Citation

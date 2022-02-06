@@ -19,6 +19,8 @@ This chapter aims to briefly introduce the fundamentals for deep learning, which
 
 **Keywords**: deep learning, convolutional neural networks, recurrent neural networks
 
+[中文版pdf](/assets/pdfs/ch1.pdf)
+
 ## Citation
 
 To cite this book, please use this bibtex entry:
