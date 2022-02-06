@@ -35,6 +35,15 @@ Divided into three main parts, this book provides a comprehensive and self-conta
 
 The book is intended for computer science students, both undergraduate and postgraduate, who would like to learn DRL from scratch, practice its implementation, and explore the research topics. This book also appeals to engineers and practitioners who do not have strong machine learning background, but want to quickly understand how DRL works and use the techniques in their applications.
 
+## 关于本书
+
+深度强化学习结合深度学习与强化学习算法各自的优势解决复杂的决策任务。得益于DeepMind AlphaGo和OpenAI Five等成功的案例，深度强化学习受到大量的关注，相关技术广泛应用于不同的领域。
+
+本书分为三大部分，覆盖深度强化学习的全部内容。第一部分介绍深度学习和强化学习的入门知识、一些非常基础的深度强化学习算法及其实现细节，包括第 1～6 章。第二部分是一些精选的深度强化学习研究题目，这些内容对准备开展深度强化学习研究的读者非常有用，包括第 7～12 章。第三部分提供了丰富的应用案例，包括 AlphaZero、让机器人学习跑步等，包括第 13～18 章。
+
+本书是为计算机科学专业背景、希望从零开始学习深度强化学习并开展研究课题和实践项目的学生准备的。本书也适合没有很强的机器学习背景、但是希望快速学习深度强化学习并将其应用到具体产品中的软件工程师阅读。
+
+
 ### Editors 
 
 * Hao Dong - Peking University
