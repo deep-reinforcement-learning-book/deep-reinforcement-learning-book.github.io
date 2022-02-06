@@ -8,6 +8,7 @@ permalink: /
 ---
 
 # Deep Reinforcement Learning
+
 {: .fs-9 }
 
 ![](/assets/images/cover_v1.png){:class="foo"}
@@ -19,7 +20,9 @@ A Springer Nature Book
 {: .fs-6 .fw-300 }
 
 [Amazon (English)](https://www.amazon.com/Deep-Reinforcement-Learning-Fundamentals-Applications/dp/9811540942){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } 
+
 <!-- [Springer](https://www.springer.com/gp/book/9789811540943){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } -->
+
 [Springer (English)](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 [京东（中文版）](https://item.jd.com/12870299.html){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 [繁体（中文版）](https://deepmind.com.tw/product/%e6%96%b0%e4%b8%80%e4%bb%a3ai%e9%9c%b8%e4%b8%bb%ef%bc%9a%e6%b7%b1%e5%ba%a6%e5%bc%b7%e5%8c%96%e5%ad%b8%e7%bf%92%e5%be%9e%e5%9f%ba%e7%a4%8e%e9%96%8b%e5%a7%8b%e5%88%b0%e5%b0%88%e6%a1%88%e9%96%8b%e7%99%bc/){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
@@ -44,15 +47,15 @@ The book is intended for computer science students, both undergraduate and postg
 
 本书是为计算机科学专业背景、希望从零开始学习深度强化学习并开展研究课题和实践项目的学生准备的。本书也适合没有很强的机器学习背景、但是希望快速学习深度强化学习并将其应用到具体产品中的软件工程师阅读。
 
-[中文版PDF现已可以在网页免费获取]
+[**中文版PDF现已可以在网页免费获取**]
 
-### Editors 
+### Editors
 
 * Hao Dong - Peking University
 * Zihan Ding - Princeton University
 * Shanghang Zhang - University of California, Berkeley
 
-### Authors 
+### Authors
 
 * Hao Dong - Peking University 
 * Zihan Ding - Princeton University
@@ -66,18 +69,19 @@ The book is intended for computer science students, both undergraduate and postg
 * Ruitong Huang - Borealis AI
 
 ## News
+
 * 02-05-2022: The e-book of Chinese version is publicly available (for free)！ 中文电子版(PDF)可在网页免费获取!
 * 06-18-2021: The book (Chinese version) is published!
 * 06-22-2020: The book (English version) is published via Springer Nature!
 * 03-25-2020: The book is set to publish in July, 2020. Stay tuned!
 
-
-## Community 
+## Community
 
 <li><a href="https://tensorlayer.slack.com/archives/CKGFRK5U4"><i class='fa fa-slack'></i> Join Us on Slack for open discussions. </a></li> 
 <li><a href="https://github.com/tensorlayer/tensorlayer/tree/master/examples/reinforcement_learning"><i class='fa fa-github'></i> Create a Github issue for a technial query. </a></li>
 
-### Mailing list 
+### Mailing list
+
 If you want to get informed about any updates, please subscribe to our mailing [here](post.html).
 
 ## Resources
@@ -89,12 +93,14 @@ If you want to get informed about any updates, please subscribe to our mailing [
 ## FQA
 
 ### Can I get a PDF of the book?
+
 For English version, if your institute bought Springer subscriptions, you are free to download the whole PDF from Springer Website under the WIFI of your institute
 Alternatively, you can purchase the e-book at Springer Website or other book dealers.
 
 For Chinese version, the e-book (PDF) is now available online (2022.02.05)!
 
 ### How to contribute?
+
 If you find any typos or have suggestions for improving the book, do not hesitate to contact us by email at: hao.dong[at]pku.edu.cn
 
 If you find any bug or error in the code released together with the book, please report them through creating an issue in the corresponding repository.
@@ -102,6 +108,7 @@ If you find any bug or error in the code released together with the book, please
 ## Citing the book
 
 To cite this book, please use this bibtex entry:
+
 ```
 @book{deepRL-2020,
  title={Deep Reinforcement Learning: Fundamentals, Research, and Applications},
