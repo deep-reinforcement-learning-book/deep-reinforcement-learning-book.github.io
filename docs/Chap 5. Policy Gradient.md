@@ -15,9 +15,10 @@ nav_order: 5
 
 This chapter aims to introduce one of the most important deep reinforcement learning algorithms, called deep Q-networks. We will start with the Q-learning algorithm via temporal difference learning, and introduce the deep Q-networks algorithm and its variants. We will end this chapter with code examples and experimental comparison of deep Q-networks and its variants in practice.
 
-[中文版pdf](/assets/pdfs/ch5.pdf)
-
 **Keywords**: temporal difference learning, DQN, double DQN, dueling DQN, prioritized experience replay, distributional reinforcement learning
+
+## Content
+[中文版PDF](/assets/pdfs/ch5.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Code 
 

@@ -13,9 +13,10 @@ nav_order: 8
 To alleviate the low sample efficiency problem in deep reinforcement learning, imitation learning, or called apprenticeship learning, is one of the potential approaches, which leverages the expert demonstrations in sequential decision making process. 
 In order to provide the readers a comprehensive understanding about how to effectively extract information from the demonstration data, we introduce the most important categories in imitation learning, including behavioral cloning, inverse reinforcement learning, imitation learning from observations, probabilistic methods and other methods. Imitation learning can either be regarded as an initialization or a guidance for training the agent in the scope of reinforcement learning. Combination of imitation learning and reinforcement learning is a promising direction for efficient learning and faster policy optimization in practice. 
 
-[中文版pdf](/assets/pdfs/ch8.pdf)
-
 **Keywords**: imitation learning, apprenticeship learning, demonstration, reinforcement learning, behavioral cloning, inverse reinforcement learning, generative adversarial networks, sample efficiency
+
+## Content
+[中文版PDF](/assets/pdfs/ch8.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Citation
 

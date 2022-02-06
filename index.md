@@ -25,8 +25,7 @@ A Springer Nature Book
 
 [Springer (English)](https://www.dpbolvw.net/click-100163099-12898971?url=https%3A%2F%2Fwww.springer.com%2Fgp%2Fbook%2F9789811540943%3FcountryChanged%3Dtrue){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
-//
-[京东（中文版）](https://item.jd.com/12870299.html){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[京东（中文版）](https://item.jd.com/12870299.html){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 } //
 [繁体（中文版）](https://deepmind.com.tw/product/%e6%96%b0%e4%b8%80%e4%bb%a3ai%e9%9c%b8%e4%b8%bb%ef%bc%9a%e6%b7%b1%e5%ba%a6%e5%bc%b7%e5%8c%96%e5%ad%b8%e7%bf%92%e5%be%9e%e5%9f%ba%e7%a4%8e%e9%96%8b%e5%a7%8b%e5%88%b0%e5%b0%88%e6%a1%88%e9%96%8b%e7%99%bc/){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 [Community](#community){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Resources](#resources){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 }  [Mailing list](post.html){: .btn .btn-green  .fs-1 .mb-3 .mb-md-0 .mr-1 } 
