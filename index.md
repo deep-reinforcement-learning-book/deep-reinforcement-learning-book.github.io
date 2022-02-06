@@ -44,6 +44,7 @@ The book is intended for computer science students, both undergraduate and postg
 
 本书是为计算机科学专业背景、希望从零开始学习深度强化学习并开展研究课题和实践项目的学生准备的。本书也适合没有很强的机器学习背景、但是希望快速学习深度强化学习并将其应用到具体产品中的软件工程师阅读。
 
+[中文版PDF现已可以在网页免费获取]
 
 ### Editors 
 
