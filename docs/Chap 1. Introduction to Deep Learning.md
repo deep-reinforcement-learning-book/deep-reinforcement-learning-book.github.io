@@ -2,6 +2,7 @@
 layout: default
 title: Chap 1. Introduction to Deep Learning
 nav_order: 2
+lang: en
 ---
 
 ## Authors

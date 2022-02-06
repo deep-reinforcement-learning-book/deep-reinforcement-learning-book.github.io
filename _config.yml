@@ -51,6 +51,7 @@ ga_tracking: UA-2709176-10
 plugins:
 #  Uncomment for the favicon icon
   - jekyll-seo-tag
+  - jekyll-polyglot
 
 compress_html:
   clippings: all
@@ -59,3 +60,8 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+
+languages: ["en", "cn"]
+default_lang: "en"
+exclude_from_localization: ["javascript", "images", "css", "public"]
+parallel_localization: true
