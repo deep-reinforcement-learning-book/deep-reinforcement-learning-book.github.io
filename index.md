@@ -49,9 +49,9 @@ The book is intended for computer science students, both undergraduate and postg
 
 ### Editors
 
-* Hao Dong - Peking University
-* Zihan Ding - Princeton University
-* Shanghang Zhang - University of California, Berkeley
+* [Hao Dong](https://zsdonghao.github.io/) - Peking University
+* [Zihan Ding](https://quantumiracle.github.io/webpage/) - Princeton University
+* [Shanghang Zhang](https://www.shanghangzhang.com/) - University of California, Berkeley
 
 ### Authors
 
