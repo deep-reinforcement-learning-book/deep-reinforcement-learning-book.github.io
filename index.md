@@ -64,6 +64,7 @@ The book is intended for computer science students, both undergraduate and postg
 * Ruitong Huang - Borealis AI
 
 ## News
+* 02-05-2022: The e-book of Chinese version is publicly available (for free)！ 中文电子版可在网页免费获取!
 * 06-18-2021: The book (Chinese version) is published!
 * 06-22-2020: The book (English version) is published via Springer Nature!
 * 03-25-2020: The book is set to publish in July, 2020. Stay tuned!
