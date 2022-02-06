@@ -13,9 +13,10 @@ nav_order: 16
 
 In this chapter, we introduce combinatorial games such as chess and Go, and take Gomoku as an example to introduce the AlphaZero algorithm, a general algorithm that has achieved superhuman performance in many challenging games. This chapter is divided into three parts: the first part introduces the concept of combinatorial games, the second part introduces the family of algorithms known as Monte Carlo Tree Search, and the third part takes Gomoku as the game environment to demonstrate the details of the AlphaZero algorithm, which combines Monte Carlo Tree Search and deep reinforcement learning from self-play.
 
-[中文版pdf](/assets/pdfs/ch15.pdf)
-
 **Keywords**: AlphaZero, Monte Carlo Tree Search, Upper Confidence Bounds for Trees, self-play, deep reinforcement learning, deep nerual network
+
+## Content
+[中文版PDF](/assets/pdfs/ch15.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Code 
 

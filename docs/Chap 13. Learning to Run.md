@@ -13,9 +13,10 @@ nav_order: 14
 
 In this chapter, we provide a practical project for readers to have some hands-on experiences of deep reinforcement learning applications, in which we adopt one challenge hosted by crowdAI and NeurIPS 2017: *Learning to Run*. The environment has a 41-dimension state space and 18-dimension action space, both continuous, which is a moderately large-scale environment for novices to gain some experiences. We provide a soft actor-critic solution for solving the environment, as well as some tricks applied for boosting performances.
 
-[中文版pdf](/assets/pdfs/ch13.pdf)
-
 **Keywords**: learning to run, deep reinforcement learning, soft actor-critic, parallel training
+
+## Content
+[中文版PDF](/assets/pdfs/ch13.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Code 
 

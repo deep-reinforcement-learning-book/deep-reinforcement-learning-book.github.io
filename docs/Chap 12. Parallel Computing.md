@@ -13,9 +13,10 @@ nav_order: 12
 
 Due to the low sample efficiency of reinforcement learning, parallel computing is an efficient solution to speed up the training process and improve the performance. In this chapter, we introduce the framework applying parallel computation in reinforcement learning. Based on different scenarios, we firstly analyze the synchronous and asynchronous communication and elaborate parallel communication in different network typologies. Taking the advantage of parallel computing, classic distributed reinforcement learning algorithms are depicted and compared, followed by summaries of fundamental components in the distributed computing architecture.
 
-[中文版pdf](/assets/pdfs/ch12.pdf)
-
 **Keywords**: distributed computing, Asynchronous Advantage Actor-Critic, Hybrid GPU/CPU A3C, Importance Weighted Actor-Learner Architecture (IMPALA), Scalable Efficient Deep-RL (SEED), Distributed Proximal Policy Optimization (DPPO), Ape-X, Retrace-Actor (Reactor), Recurrent Replay Distributed DQN (R2D2)
+
+## Content
+[中文版PDF](/assets/pdfs/ch12.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ## Citation
 
