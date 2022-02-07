@@ -68,8 +68,7 @@ The book is intended for computer science students, both undergraduate and postg
 * Huaqing Zhang - Google 
 * Ruitong Huang - Borealis AI
 
-![](//www.clustrmaps.com/map_v2.png?d=2X5osf9vRQ8D0A8aD2IBxNyY-yDaczgCRgaxeh-NLXU&cl=ffffff){:class="foo"}
-
+![](//www.clustrmaps.com/map_v2.png?d=2X5osf9vRQ8D0A8aD2IBxNyY-yDaczgCRgaxeh-NLXU&cl=ffffff){:class="foo"}  
 
 ## News
 
