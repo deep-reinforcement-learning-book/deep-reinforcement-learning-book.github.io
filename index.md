@@ -68,6 +68,9 @@ The book is intended for computer science students, both undergraduate and postg
 * Huaqing Zhang - Google 
 * Ruitong Huang - Borealis AI
 
+![](//www.clustrmaps.com/map_v2.png?d=2X5osf9vRQ8D0A8aD2IBxNyY-yDaczgCRgaxeh-NLXU&cl=ffffff){:class="foo"}
+
+
 ## News
 
 * 02-05-2022: The e-book of Chinese version is publicly available (for free)！ 中文电子版(PDF)可在网页免费获取!
@@ -123,5 +126,3 @@ To cite this book, please use this bibtex entry:
 Alternatively, use this formatted citation:
 
 `Hao Dong, Zihan Ding, Shanghang Zhang, Hang Yuan, Hongming Zhang, Jingqing Zhang, Yanhua Huang, Tianyang Yu, Huaqing Zhang, Ruitong Huang. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
-
-![](//www.clustrmaps.com/map_v2.png?d=2X5osf9vRQ8D0A8aD2IBxNyY-yDaczgCRgaxeh-NLXU&cl=ffffff){:class="foo"}
