@@ -123,3 +123,5 @@ To cite this book, please use this bibtex entry:
 Alternatively, use this formatted citation:
 
 `Hao Dong, Zihan Ding, Shanghang Zhang, Hang Yuan, Hongming Zhang, Jingqing Zhang, Yanhua Huang, Tianyang Yu, Huaqing Zhang, Ruitong Huang. (2020) Deep Reinforcement Learning: Fundamentals, Research, and Applications. Springer.`
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=2X5osf9vRQ8D0A8aD2IBxNyY-yDaczgCRgaxeh-NLXU&cl=ffffff&w=a"></script>
