@@ -47,7 +47,7 @@ The book is intended for computer science students, both undergraduate and postg
 
 [**中文版PDF现已可以在网页免费获取**]
 [黑白中文版PDF](/assets/pdfs/深度强化学习(中文版-黑白).pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
-[彩色中文版PDF](/assets/pdfs/DRL_Chinese_color.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
+[彩色中文版PDF](https://github.com/deep-reinforcement-learning-book/deep-reinforcement-learning-book.github.io/blob/master/assets/pdfs/DRL_Chinese_color.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
 
 ### Editors
 
