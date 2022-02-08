@@ -62,7 +62,7 @@ The book is intended for computer science students, both undergraduate and postg
 * Shanghang Zhang - University of California, Berkeley 
 * Hang Yuan - Oxford University
 * Hongming Zhang - Peking University
-* Jingqing Zhang - Imperial College London
+* [Jingqing Zhang](https://jingqingz.github.io/) - Imperial College London
 * Yanhua Huang - Xiaohongshu Technology Co.
 * Tianyang Yu - Nanchang University
 * Huaqing Zhang - Google 
