@@ -47,7 +47,7 @@ The book is intended for computer science students, both undergraduate and postg
 
 [**中文版PDF现已可以在网页免费获取**]
 [黑白中文版PDF](/assets/pdfs/深度强化学习(中文版-黑白).pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
-[彩色中文版PDF](/assets/pdfs/深度强化学习(中文版-彩色压缩).pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }[Google Drive](https://drive.google.com/drive/folders/166aWEqESA1jb0i6C8vwuNFH8ujZ8aUOG?usp=sharing)
+[彩色中文版PDF](/assets/pdfs/深度强化学习(中文版-彩色压缩).pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }[百度云](https://pan.baidu.com/s/1zVzOtBQ287on1NNJjo5cFA?pwd=hea4)[Google Drive](https://drive.google.com/drive/folders/166aWEqESA1jb0i6C8vwuNFH8ujZ8aUOG?usp=sharing)
 
 ### Editors
 
