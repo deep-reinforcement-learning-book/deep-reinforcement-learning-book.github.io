@@ -60,7 +60,7 @@ The book is intended for computer science students, both undergraduate and postg
 * Hao Dong - Peking University 
 * Zihan Ding - Princeton University
 * Shanghang Zhang - University of California, Berkeley 
-* Hang Yuan - Oxford University
+* [Hang Yuan](https://hangyuan.xyz) - Oxford University
 * Hongming Zhang - Peking University
 * [Jingqing Zhang](https://jingqingz.github.io/) - Imperial College London
 * Yanhua Huang - Xiaohongshu Technology Co.
