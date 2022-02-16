@@ -13,9 +13,9 @@ nav_order: 5
 
 ## Abstract
 
-This chapter aims to introduce one of the most important deep reinforcement learning algorithms, called deep Q-networks. We will start with the Q-learning algorithm via temporal difference learning, and introduce the deep Q-networks algorithm and its variants. We will end this chapter with code examples and experimental comparison of deep Q-networks and its variants in practice.
+Policy gradient methods are a type of reinforcement learning techniques that rely upon optimizing parameterized policies with respect to the expected return (long-term cumulative reward) by gradient descent. They do not suffer from many of the problems that have been traditional reinforcement learning approaches such as the lack of guarantees of an accurate value function, the intractability problem resulting from the uncertain state information, and the complexity arising from continuous states and actions. In this chapter, we will introduce a list of popular policy gradient methods. Starting with the basic policy gradient method REINFORCE, we then introduce the actor-critic method, the distributed versions of actor-critic, and trust region policy optimization and its approximate versions, each one improving its precedent. All the methods introduced in this chapter will be accompanied with its pseudo-code and, at the end of this chapter, a concrete implementation example.
 
-**Keywords**: temporal difference learning, DQN, double DQN, dueling DQN, prioritized experience replay, distributional reinforcement learning
+**Keywords**: policy optimization, policy gradient, actor-critic, trust region policy optimization, proximal policy optimization
 
 ## Content
 [中文版PDF](/assets/pdfs/ch5.pdf){: .btn .btn-purple  .fs-3 .mb-4 .mb-md-0 .mr-2 }
