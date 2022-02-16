@@ -8,7 +8,7 @@ lang: en
 If you find any typos or have suggestions for improving the book, do not hestitate to contact us via email at: hao.dong[at].pku.edu.cn
 
 ## Content
-To help the readers deeply understand DRL and quickly apply those widely used techniques in practice, the following chapters introduce five selected applications or large-scale projects, including the learning to run challenge, image enhancement, AlphaZero, robot learning in simulation, and multi-agent reinforcement learning with Arena platform. The applications are selected to cover as much usage as pos- sible, for helping the readers to understand the details and tricks of implementation in different scenarios.
+To help the readers deeply understand DRL and quickly apply those widely used techniques in practice, the following chapters introduce five selected applications or large-scale projects, including the learning to run challenge, image enhancement, AlphaZero, robot learning in simulation, and multi-agent reinforcement learning with Arena platform. The applications are selected to cover as much usage as possible, for helping the readers to understand the details and tricks of implementation in different scenarios.
 
 The related codes with environment supports and algorithm implementations
 are released in the following link: [https://github.com/deep-reinforcement-learning-book](https://github.com/deep-reinforcement-learning-book).

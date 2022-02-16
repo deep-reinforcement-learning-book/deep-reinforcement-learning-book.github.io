@@ -17,7 +17,7 @@ Chapter 9 introduces model-based reinforcement learning, which also improves the
 
 Chapter 10 describes hierarchical reinforcement learning, which helps with problems including catastrophic interference and hard exploration in deep reinforcement learning, as well as improving the overall learning efficiency. Options framework and feudal reinforcement learning are highlighted in the description. 
 
-Chapter 11 describes the concept of multi-agent reinforcement learning, as an extension of reinforcement learning to tasks with more than one agent. Competitive and collaborative relationships among agents, Nash equilibrium and some multi- agent reinforcement learning algorithms are detailed in this chapter.
+Chapter 11 describes the concept of multi-agent reinforcement learning, as an extension of reinforcement learning to tasks with more than one agent. Competitive and collaborative relationships among agents, Nash equilibrium and some multi-agent reinforcement learning algorithms are detailed in this chapter.
 
 Chapter 12 introduces parallel computing in deep reinforcement learning, for
 solving the scalability challenge and improving the learning speed in wall-clock time. Different parallel training frameworks are introduced in this chapter, which helps to employ deep reinforcement learning in large-scale real-world applications. The related codes are released in the following link: [https://github.com/deep-reinforcement-learning-book](https://github.com/deep-reinforcement-learning-book).
